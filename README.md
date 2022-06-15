@@ -1,2 +1,2 @@
 # sandbox
-A playground
+A playground for all digital signal processing experiments.
